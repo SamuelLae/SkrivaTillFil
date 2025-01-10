@@ -1,0 +1,14 @@
+C:\Users\sl8342\OneDrive\Programering\c#\SkrivaTillFil\SkrivaTillFilTest\bin\Debug\net8.0\SkrivaTillFilTest.exe
+C:\Users\sl8342\OneDrive\Programering\c#\SkrivaTillFil\SkrivaTillFilTest\bin\Debug\net8.0\SkrivaTillFilTest.deps.json
+C:\Users\sl8342\OneDrive\Programering\c#\SkrivaTillFil\SkrivaTillFilTest\bin\Debug\net8.0\SkrivaTillFilTest.runtimeconfig.json
+C:\Users\sl8342\OneDrive\Programering\c#\SkrivaTillFil\SkrivaTillFilTest\bin\Debug\net8.0\SkrivaTillFilTest.dll
+C:\Users\sl8342\OneDrive\Programering\c#\SkrivaTillFil\SkrivaTillFilTest\bin\Debug\net8.0\SkrivaTillFilTest.pdb
+C:\Users\sl8342\OneDrive\Programering\c#\SkrivaTillFil\SkrivaTillFilTest\obj\Debug\net8.0\SkrivaTillFilTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sl8342\OneDrive\Programering\c#\SkrivaTillFil\SkrivaTillFilTest\obj\Debug\net8.0\SkrivaTillFilTest.AssemblyInfoInputs.cache
+C:\Users\sl8342\OneDrive\Programering\c#\SkrivaTillFil\SkrivaTillFilTest\obj\Debug\net8.0\SkrivaTillFilTest.AssemblyInfo.cs
+C:\Users\sl8342\OneDrive\Programering\c#\SkrivaTillFil\SkrivaTillFilTest\obj\Debug\net8.0\SkrivaTillFilTest.csproj.CoreCompileInputs.cache
+C:\Users\sl8342\OneDrive\Programering\c#\SkrivaTillFil\SkrivaTillFilTest\obj\Debug\net8.0\SkrivaTillFilTest.dll
+C:\Users\sl8342\OneDrive\Programering\c#\SkrivaTillFil\SkrivaTillFilTest\obj\Debug\net8.0\refint\SkrivaTillFilTest.dll
+C:\Users\sl8342\OneDrive\Programering\c#\SkrivaTillFil\SkrivaTillFilTest\obj\Debug\net8.0\SkrivaTillFilTest.pdb
+C:\Users\sl8342\OneDrive\Programering\c#\SkrivaTillFil\SkrivaTillFilTest\obj\Debug\net8.0\SkrivaTillFilTest.genruntimeconfig.cache
+C:\Users\sl8342\OneDrive\Programering\c#\SkrivaTillFil\SkrivaTillFilTest\obj\Debug\net8.0\ref\SkrivaTillFilTest.dll
